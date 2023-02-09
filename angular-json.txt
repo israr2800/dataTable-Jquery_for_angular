@@ -1,0 +1,15 @@
+"src/assets/styles/dataTables.min.css",
+                            "src/assets/styles/buttonsdatTablesmin.css",
+
+
+
+"src/assets/scripts/datatabel/dataTables.min.js",
+                            "src/assets/scripts/datatabel/dataTables.buttons.js",
+                            "src/assets/scripts/datatabel/buttons.colVis.js",
+                            "src/assets/scripts/datatabel/buttons.flash.js",
+                            "src/assets/scripts/datatabel/buttons.print.js",
+                            "src/assets/scripts/datatabel/buttons.html5.js",
+                            "src/assets/scripts/datatabel/jszip.js",
+                            "src/assets/scripts/datatabel/pdfmake.js",
+                            "src/assets/scripts/datatabel/vfs_fonts.js",
+                            "src/assets/scripts/datatabel/vfs_fonts.js",
